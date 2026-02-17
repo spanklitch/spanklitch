@@ -22,6 +22,7 @@ I'm a hobbyist and tinkerer who likes to build things, break things, and figure 
 ### Projects
 
 - [**Bastion**](https://github.com/spanklitch/bastion) - Security auditing and hardening for Ubuntu 22.04+ desktops. Scans 9 security areas and lets you fix what it finds.
+- [**openclaw-diamon**](https://github.com/spanklitch/openclaw-diamon) - Universal Decision Intent Architecture for agentic AI. A human-readable, machine-executable framework for encoding trust between humans and AI agents.
 
 ### Stats
 
